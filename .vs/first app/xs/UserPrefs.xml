@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BDC0CBC4-2535-B403-AD48-84138485044F}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PhysicsLesson.cs">
+    <Files>
+      <File FileName="Assets/Materials/NewSurfaceShader.shader" />
+      <File FileName="Assets/Scripts/FirstScript.cs" />
+      <File FileName="Assets/Scripts/derstransform.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cylinder.cs" Line="29" Column="39" />
+      <File FileName="Assets/Scripts/prefabdersi.cs" />
+      <File FileName="Assets/Scripts/PhysicsLesson.cs" Line="28" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="first app" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Materials" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8242cafa-4e13-4ade-af4e-d3be7908231b" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
