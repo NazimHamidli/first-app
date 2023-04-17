@@ -61,6 +61,9 @@
     <Compile Include="Assets/Scripts/derstransform.cs" />
     <Compile Include="Assets/Scripts/FirstScript.cs" />
     <Compile Include="Assets/Scripts/PhysicsLesson.cs" />
+    <Compile Include="Assets/Scripts/BallControll/PlayerController.cs" />
+    <Compile Include="Assets/Scripts/BallControll/Coin.cs" />
+    <Compile Include="Assets/Scripts/BallControll/CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Materials/NewSurfaceShader.shader" />
