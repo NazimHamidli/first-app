@@ -57,13 +57,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/prefabdersi.cs" />
+    <Compile Include="Assets/Scripts/BallControll/PlayerController.cs" />
+    <Compile Include="Assets/Scripts/class/EventSystem.cs" />
+    <Compile Include="Assets/Scripts/BallControll/ClassTest.cs" />
+    <Compile Include="Assets/Scripts/BallControll/Enemy.cs" />
     <Compile Include="Assets/Scripts/cylinder.cs" />
+    <Compile Include="Assets/Scripts/class/HealthController.cs" />
     <Compile Include="Assets/Scripts/derstransform.cs" />
     <Compile Include="Assets/Scripts/FirstScript.cs" />
+    <Compile Include="Assets/Scripts/BallControll/Person.cs" />
+    <Compile Include="Assets/Scripts/class/Attack.cs" />
     <Compile Include="Assets/Scripts/PhysicsLesson.cs" />
-    <Compile Include="Assets/Scripts/BallControll/PlayerController.cs" />
     <Compile Include="Assets/Scripts/BallControll/Coin.cs" />
     <Compile Include="Assets/Scripts/BallControll/CameraFollow.cs" />
+    <Compile Include="Assets/Scripts/oop/testoop.cs" />
+    <Compile Include="Assets/Scripts/oop/EnemyCapsule.cs" />
+    <Compile Include="Assets/Scripts/oop/Dragon.cs" />
+    <Compile Include="Assets/Scripts/oop/Zombie.cs" />
+    <Compile Include="Assets/Scripts/oop/IDamageble.cs" />
+    <Compile Include="Assets/Scripts/oop/Player.cs" />
+    <Compile Include="Assets/Scripts/oop/IHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Materials/NewSurfaceShader.shader" />
